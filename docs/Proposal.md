@@ -43,9 +43,4 @@ The target users/beneficiaries are the people that know themselves to often forg
 ---
 
 ## Sample Wireframe of the Application
-Wireframe / Flowchart Area:
-[Insert wireframe or flowchart here]
-Screen Description:
-Screen 1: __________________________________________
-Screen 2: __________________________________________
-
+<!--- placeholder lol :P>
