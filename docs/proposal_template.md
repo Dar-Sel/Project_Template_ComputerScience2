@@ -1,15 +1,12 @@
 # 📌 Project Proposal (Draft)
 
 ## 📝 Project Title  
-*Enter your initial project title here.*  
+LIKSI: Listing Intentions, Keeping Schedules In-check  
 
 ---
 
 ## 🔍 Problem Statement  
-What real-world problem does your project want to solve?  
-- Describe the issue or need you identified.  
-- Explain why this problem is relevant and worth solving.  
-- Relate the problem to the dataset you selected (e.g., hospital, ecommerce, students, etc.).  
+When your schedule is as busy as a Pisay scholar, there may be times where you forget to do the requirements you have to pass; especially when it is a week wherein the periodical examinations are fast approaching and projects need to be completed and requirements need to be passed — amidst all that, there may be things you took note of but forgot. LIKSI provides constant reminders without prompting and also automatically organizes requirements based on the grading system set in that subject. The application is needed because instead of you having to get reminders for everything and getting notifications for things that you need to do on the day of the deadline — LIKSI makes sure to optimize your time and also allots schedules for you to do requirements.
 
 ---
 
