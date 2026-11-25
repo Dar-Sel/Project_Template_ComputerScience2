@@ -43,4 +43,33 @@ The target users/beneficiaries are the people that know themselves to often forg
 ---
 
 ## Sample Wireframe of the Application
-<!--- placeholder lol :P>
+* Menu:
+<pre>
+====================================
+         LIKSI - MAIN MENU
+====================================
+—-- Reminders and Requirements —--
+none as of right now : P
+—--
+1 - Add Objective
+2 - Edit Schedule
+3 - View Objectives
+4 - View Schedule
+5 - Edit Grading System
+0 - Exit
+—--
+Enter Choice: [choice]
+</pre>
+
+* Add Objective
+<pre>
+====================================
+       LIKSI - ADD OBJECTIVE
+====================================
+—--
+Objective Name: [objectiveName]
+Date / Time: [eventDate]
+Subject: [subject]
+Modes of Participation: [participationModes] 
+—--
+</pre>
