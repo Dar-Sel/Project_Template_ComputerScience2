@@ -82,7 +82,7 @@ Modes of Participation: [participationModes]
 | Project Planning | Fontelo, Jak / Salino, Darielle / Campana, Margeaux | 11 / 08 / 2026 | DONE |
 | Feature Development | Campana, Margeaux / Fontelo, Jak / Salino, Darielle | 11 / 11 / 2026* 11/13/2026 | DONE |
 | Data Design | Salino, Darielle / Campana, Margeaux / Fontelo, Jak | 11 / 14 / 2026 |
-| Wireframe Creation | Salino, Darielle | 11 / 15 / 2026 | DONE |
+| Wireframe Creation | Salino, Darielle | 11 / 15 / 2026 | DONE | |
 | Documentation | Campana, Margeaux | 11 / 19 / 2026 | DONE | 
 | Features Proofreading | Fontelo, Jak | 11 / 19 / 2026 | |
 
