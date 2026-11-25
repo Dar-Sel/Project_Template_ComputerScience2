@@ -24,7 +24,7 @@ The target users/beneficiaries are the people that know themselves to often forg
 
 | Feature | Description | Persistent Data Used |
 |:---|:---|:---|
-| Feature 1 | Organizes requirements by priority and deadlines, considering their impact on the student's grades and urgency. |Task details, priority levels, due dates, subject grading weights, and completion status | 
+| Feature 1 | Organizes requirements by priority and deadlines, considering their impact on the student's grades and urgency. | Task details, priority levels, due dates, subject grading weights, and completion status | 
 | Feature 2 | Provides automatic reminders for upcoming deadlines and unfinished requirements. | Task deadlines, reminder settings, notification schedules, and completion status |
 | Feature 3 | Suggests optimal schedules and time slots for completing requirements based on the student's provided schedule. | Student's personal schedule, available time slots, task durations, and deadlines |
 | Feature 4 | Automatically updates and reorganizes the priority of requirements as deadlines approach and new tasks are added. | Existing task records, newly added requirements, updated deadlines, priority levels, and completion status |
@@ -32,6 +32,7 @@ The target users/beneficiaries are the people that know themselves to often forg
 ---
 
 ## Description of Data to be Collected and Stored as Persistent Data (Optional) 
+
 | Data Field | Description | Purpose/Use | 
 |:---|:---|:---|
 | Student ID | Unique Log-In Identifier of the user | Used for logging in and account management |
@@ -73,3 +74,18 @@ Subject: [subject]
 Modes of Participation: [participationModes] 
 —--
 </pre>
+
+## Task Schedule and Assigned Team Members
+
+| Task/Activity | Assigned Member(s) | Target Date (MM/DD/YY) | Status |
+|:---|:---|:---|:---| 
+| Project Planning | Fontelo, Jak / Salino, Darielle / Campana, Margeaux | 11 / 08 / 2026 | DONE |
+| Feature Development | Campana, Margeaux / Fontelo, Jak / Salino, Darielle | 11 / 11 / 2026* 11/13/2026 | DONE |
+| Data Design | Salino, Darielle / Campana, Margeaux / Fontelo, Jak | 11 / 14 / 2026 |
+| Wireframe Creation | Salino, Darielle | 11 / 15 / 2026 | DONE |
+| Documentation | Campana, Margeaux | 11 / 19 / 2026 | DONE | 
+| Features Proofreading | Fontelo, Jak | 11 / 19 / 2026 | |
+
+
+
+
